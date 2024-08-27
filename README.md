@@ -6,6 +6,12 @@
 - 💬 Ask me about **Python, Data visualization, Statistics, Python Libraries**
 - 📫 How to reach me **furkhanadoni415@gmail.com**
 - 📄 Know about my experiences [https://pdf.ac/1KMrtN](https://pdf.ac/1KMrtN)
+
+<div style="text-align: right;">
+  <img src="![image](https://github.com/user-attachments/assets/48d52785-af65-46d5-b3c7-91ba8ce4911b)
+" alt="Description" width="200" height="200"/>
+</div>
+
   
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=furkhan07&label=Profile%20views&color=0e75b6&style=flat" alt="furkhan07" /> </p>
 <h3 align="left">Reach Out to Me!:</h3>
