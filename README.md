@@ -8,8 +8,7 @@
 - 📄 Know about my experiences [https://pdf.ac/1KMrtN](https://pdf.ac/1KMrtN)
 
 
-<img src="https://github.com/user-attachments/assets/82c8cab9-efeb-423c-a201-7987c59f9302" alt="Description" style="float: right; margin: 10px;" width="300" height="300"/>
-
+<img align="right" alt="coding" width="300" src="https://camo.githubusercontent.com/a615ccee1fede08a3322b260a6c9b09fa7c9d76bb410469650b284ebebcaef57/68747470733a2f2f692e70696e696d672e636f6d2f6f726967696e616c732f65382f66342f35332f65386634353334363961336563393765636433353464663436356437333931332e676966">
 
 
   
