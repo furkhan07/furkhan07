@@ -5,6 +5,7 @@
 - 🌱 I’m currently learning **R programming, Machine Learning, SQL**
 - 💬 Ask me about **Python, Data visualization, Statistics, Python Libraries**
 - 📫 How to reach me **furkhanadoni415@gmail.com**
+- 📄 Know about my experiences [https://pdf.ac/1KMrtN](https://pdf.ac/1KMrtN)
 
 <h3 align="left">Reach Out to Me!:</h3>
 <p align="left">
