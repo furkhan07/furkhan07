@@ -10,7 +10,9 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/furkhan adoni" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="furkhan adoni" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/furkhan-adoni" target="_blank">
+  <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="Furkhan Adoni" height="30" width="40" />
+</a>
 <a href="https://instagram.com/furkhan_5986" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="furkhan_5986" height="30" width="40" /></a>
 </p>
 
