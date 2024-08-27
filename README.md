@@ -6,7 +6,8 @@
 - 💬 Ask me about **Python, Data visualization, Statistics, Python Libraries**
 - 📫 How to reach me **furkhanadoni415@gmail.com**
 - 📄 Know about my experiences [https://pdf.ac/1KMrtN](https://pdf.ac/1KMrtN)
-
+  
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=furkhan07&label=Profile%20views&color=0e75b6&style=flat" alt="furkhan07" /> </p>
 <h3 align="left">Reach Out to Me!:</h3>
 <p align="left">
 <a href="https://www.linkedin.com/in/furkhan-adoni-5986p?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app" target="_blank">
