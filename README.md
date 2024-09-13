@@ -14,9 +14,9 @@
 <h3 align="left">Reach Out to Me:</h3>
 <p align="left">
 <a href="https://www.linkedin.com/in/furkhan-adoni-5986p?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app" target="_blank">
-  <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="Furkhan Adoni" height="30" width="40" />
 </a>
-<a href="https://www.instagram.com/furkhan5986?igsh=bm1nN2R3bHZxNW9u" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="furkhan_5986" height="30" width="40" /></a>
+<a href="https://www.instagram.com/furkhan5986?igsh=bm1nN2R3bHZxNW9u" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="furkhan_5986" height="30" width="40" />
+</a>
 <a href="https://twitter.com/furkhan adoni" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="furkhan adoni" height="30" width="40" /></a>
 </p>
 
