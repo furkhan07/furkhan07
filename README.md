@@ -4,7 +4,7 @@
 - 🌱 I’m currently learning **Tableau, Machine Learning, SQL**
 - 💬 Ask me about **Python, Data visualization, Statistics, Python Libraries**
 - 📫 How to reach me **furkhanadoni415@gmail.com**
-- 📄 Know about my experiences [https://pdf.ac/1KMrtN](https://pdf.ac/1KMrtN)
+- 📄 Know about my experiences [https://pdf.ac/2E2fBr](https://pdf.ac/2E2fBr)
 <img align="right" alt="coding" width="400" src="https://media.licdn.com/dms/image/v2/C4D12AQEeKAn9dPLbhw/article-cover_image-shrink_720_1280/article-cover_image-shrink_720_1280/0/1616667695311?e=1730332800&v=beta&t=okl8dtKpu5J4BZYYz1ft3eDeqkvmUwRG4EHsqsWv0io">
 
 
