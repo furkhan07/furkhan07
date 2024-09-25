@@ -1,7 +1,7 @@
 <h1 align="center">Hi there 👋 I'm Mahammad Furkhan Y Adhoni</h1>
 <h3 align="center">A passionate Data Science student from Bangalore, dedicated to uncovering insights and advancing in the Data Science field.</h3>
 
-- 🌱 I’m currently learning **Tableau, Machine Learning, SQL**
+- 🌱 I’m currently learning **PowerBI, Machine Learning, SQL**
 - 💬 Ask me about **Python, Data visualization, Statistics, Python Libraries**
 - 📫 How to reach me **furkhanadoni415@gmail.com**
 - 📄 Know about my experiences [https://pdf.ac/2E2fBr](https://pdf.ac/2E2fBr)
