@@ -1,8 +1,8 @@
 <h1 align="center">Hi there 👋 I'm Mahammad Furkhan Y Adhoni</h1>
 <h3 align="center">A passionate Data Science student from Bangalore, dedicated to uncovering insights and advancing in the Data Science field.</h3>
 
-- 🌱 I’m currently learning **PowerBI, Machine Learning, SQL**
-- 💬 Ask me about **Python, Data visualization, Statistics, Python Libraries**
+- 🌱 I’m currently learning **Advance Python, Deep Learning, GenAI**
+- 💬 Ask me about **Python, SQl, Python Libraries, PowerBI, Machine Learning, Deep Learning**
 - 📫 How to reach me **furkhanadoni415@gmail.com**
 - 📄 Know about my experiences [https://tinyurl.com/2p9799ue](https://tinyurl.com/2p9799ue)
 <img align="right" alt="coding" width="400" src="https://media.licdn.com/dms/image/v2/C4D12AQEeKAn9dPLbhw/article-cover_image-shrink_720_1280/article-cover_image-shrink_720_1280/0/1616667695311?e=1730332800&v=beta&t=okl8dtKpu5J4BZYYz1ft3eDeqkvmUwRG4EHsqsWv0io">
@@ -32,4 +32,13 @@
 
 
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=2722F7&width=435&lines=%22Coding%2C+solving%2C+and+evolving.%22" alt="Typing SVG" /></a>
+
+
+
+
+<!-- Snake Game Repo View -->
+
+<div align="center">
+  <img src="https://profile-readme-generator.com/assets/snake.svg" alt="Snake animation" />
+</div>
 
