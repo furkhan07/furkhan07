@@ -1,5 +1,5 @@
 <h1 align="center">Hi there 👋 I'm Mahammad Furkhan Y Adhoni</h1>
-<h3 align="center">A passionate Data Science student from Bangalore, dedicated to uncovering insights and advancing in the Data Science field.</h3>
+<h3 align="center">Tech enthusiast and aspiring data professional from Bangalore, India, with a strong foundation in Computer Science and Data Science. Always eager to innovate, learn, and grow.</h3>
 
 - 🌱 I’m currently learning **Advance Python, Deep Learning, GenAI**
 - 💬 Ask me about **Python, SQl, Python Libraries, PowerBI, Machine Learning, Deep Learning**
