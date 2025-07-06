@@ -18,7 +18,6 @@
 <a href="https://x.com/furkhan5986" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="furkhan adoni" height="30" width="40" /></a>
 </p>
 
-## 🌐 Socials:
 [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:furkhanadoni415@gmail.com) 
 
 <h3 align="left">Languages and Tools:</h3>
