@@ -2,7 +2,7 @@
 <h3 align="center">Tech enthusiast and Engineering student from Bangalore, Exploring Data Analytics, Visualization, Machine Learning, and everything Data Science has to offer. Always eager to innovate, learn, and grow.</h3>
 
 - 🌱 I’m currently learning **Advance Python, Deep Learning, GenAI**
-- 💬 Ask me about **Python, SQl, Python Libraries, PowerBI, Machine Learning, Deep Learning**
+- 💬 Ask me about **Python, SQL, Python Libraries, PowerBI, Machine Learning, Deep Learning**
 - 📫 How to reach me **furkhanadoni415@gmail.com**
 - 📄 Know about my experiences [https://tinyurl.com/2p9799ue](https://tinyurl.com/2p9799ue)
 <img align="right" alt="coding" width="400" src="https://camo.githubusercontent.com/2366b34bb903c09617990fb5fff4622f3e941349e846ddb7e73df872a9d21233/68747470733a2f2f63646e2e6472696262626c652e636f6d2f75736572732f3733303730332f73637265656e73686f74732f363538313234332f6176656e746f2e676966">
