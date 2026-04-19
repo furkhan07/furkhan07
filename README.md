@@ -11,7 +11,7 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=furkhan07&label=Profile%20views&color=0e75b6&style=flat" alt="furkhan07" /> </p>
 
 <h3 align="left">Reach Out to Me:</h3>
-<p align="left">
+<p style="display: flex; align-items: centre; gap: 15px;">
   
 <a href="https://linkedin.com/in/furkhan adoni" target="blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="furkhan adoni" height="30" width="40" style="display:block; margin-bottom;10px;" /></a>
   
