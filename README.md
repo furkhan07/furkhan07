@@ -11,14 +11,11 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=furkhan07&label=Profile%20views&color=0e75b6&style=flat" alt="furkhan07" /> </p>
 
 <h3 align="left">Reach Out to Me:</h3>
-<p style="display: flex; align-items: centre; gap: 15px;">
-
-<a href="https://linkedin.com/in/furkhan adoni" target="blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="furkhan adoni" height="30" width="40" /></a> 
-
-<a href="https://www.instagram.com/furkhan5986?igsh=bm1nN2R3bHZxNW9u" target="blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="furkhan_5986" height="30" width="40" /></a>
-
-<a href="https://x.com/furkhan5986" target="blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="furkhan adoni" height="30" width="40" /></a>          
-</p> 
+<p style="display: flex; align-items: center; gap: 15px;">
+  <a href="https://linkedin.com/in/furkhan adoni" target="blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="furkhan adoni" height="30" width="40" /></a>
+  <a href="https://www.instagram.com/furkhan5986?igsh=bm1nN2R3bHZxNW9u" target="blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="furkhan_5986" height="30" width="40" /></a>
+  <a href="https://x.com/furkhan5986" target="blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="furkhan adoni" height="30" width="40" /></a>
+</p>
 
 [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:furkhanadoni415@gmail.com) 
 
