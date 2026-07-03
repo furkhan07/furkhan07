@@ -5,6 +5,8 @@
 - 💬 Ask me about **Python, SQL, Python Libraries, Excel, PowerBI, Machine Learning,**
 - 📫 How to reach me **furkhanadoni415@gmail.com**
 - 📄 Know about my experiences [https://tinyurl.com/ycytpufd](https://tinyurl.com/ycytpufd)
+- 🚀 Portfolio [https://exquisite-effect-863610-574b8f077.framer.app/](https://exquisite-effect-863610-574b8f077.framer.app/)
+
 
 <p align="left">
   <img src="https://static.wixstatic.com/media/fde2b0_d6cf3b0a35c04070bc3c05efaf3ce5b2~mv2.gif" alt="animation" />
